@@ -1,5 +1,5 @@
 -e git+https://github.com/celery/celery#egg=celery
 librabbitmq>=1.0.2
 pylibmc
-Django
+https://github.com/surfly/gevent/releases/download/1.0rc3/gevent-1.0rc3.tar.gz
 
