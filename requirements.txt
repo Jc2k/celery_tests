@@ -1,4 +1,5 @@
 -e git+https://github.com/celery/celery#egg=celery
 librabbitmq>=1.0.2
 pylibmc
+Django
 
